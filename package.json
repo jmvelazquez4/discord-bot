@@ -1,0 +1,27 @@
+{
+  "name": "botbot",
+  "version": "1.0.0",
+  "description": "bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "airose",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.0.0",
+    "@discordjs/rest": "^1.0.0",
+    "@napi-rs/canvas": "^0.1.25",
+    "discord-api-types": "^0.36.2",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^14.1.1",
+    "jimp": "^0.16.0",
+    "sequelize": "^6.21.3",
+    "sqlite3": "^5.0.10",
+    "tesseract.js": "^2.1.5"
+  },
+  "devDependencies": {
+    "@types/tesseract.js": "^2.0.0",
+    "eslint": "^8.20.0"
+  }
+}
