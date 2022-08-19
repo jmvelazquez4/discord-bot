@@ -2,7 +2,7 @@
 This bot uses Tesseract OCR to analyze Wild Rift screenshots of the in-game guild menu. It will store usernames and their associated contribution.
 
 ### Requirements
-These files are written in Javascript. You will need to put your own config.js file and everything else should work. 
+These files are written in Javascript. You will need to put your own config.js file with the bot token and everything else should work. 
 
 ### Current Features
 - Crops and gray-scales Wild Rift screenshot for Galaxy S21 UI 
