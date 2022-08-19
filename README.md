@@ -4,6 +4,14 @@ This bot uses Tesseract OCR to analyze Wild Rift screenshots of the in-game guil
 Requirements
 These files are written in Javascript. You will need to put your own config.js file and everything else should work. 
 
+Current Features
+- Crops and gray-scales Wild Rift screenshot for Galaxy S21 UI 
+- Saves contribution and names of Users to database
+- Configuration commands 
+- Individual Contribution commands
+
 Work In Progress
-Some parts are still a WIP. Member/Admin configuration is still being worked on as well as UI configuration. 
+- Disallowing certain commands based on configuration commands
+- Ability to set different UIs for the cropping tool
+
 
